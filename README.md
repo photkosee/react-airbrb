@@ -1,4 +1,7 @@
 # ReactJS: AirBrB
+> Note that the code here is not the complete version of the project. The complete code (frontend part) is maintained on GitLab and could be published after 2025 due to UNSW policy. <br>
+Please contact me to review the complete version of the code in person. <br>
+I worked with a teammate and achieved all listed features (Video demo coming soon).
 
 1. Background & Motivation
 2. The Task (Frontend)
