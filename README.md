@@ -7,6 +7,10 @@ I worked with a teammate and achieved all listed features.
 
 [A youtube video for the demo is here](https://youtu.be/7PCxjD9BqxE) <br>
 
+<a href="(https://youtu.be/7PCxjD9BqxE">
+	<img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Demo-red?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
 [![Screenshot (457)](https://github.com/photkosee/airbrb-react/assets/114990364/3057c95d-b22f-4487-a8c6-311a8d28a4cb)](https://youtu.be/7PCxjD9BqxE)
 
 - [1. Background & Motivation](#11-background--motivation)
