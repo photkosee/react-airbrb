@@ -1,14 +1,24 @@
 # ReactJS: AirBrB
+> Note that the code here is not the complete version of the project. The complete code (frontend part) is maintained on GitLab and could be published after 2025 due to UNSW policy. <br>
+Please contact me to review the complete version of the code in person. <br>
+I worked with a teammate and achieved all listed features.
 
-1. Background & Motivation
-2. The Task (Frontend)
-3. The Support (Backend)
-4. Constraints & Assumptions
-5. Teamwork
-6. Marking Criteria
-7. Originality of Work
-8. Submission
-9. Late Submission Policy
+## Demo
+
+[A youtube video for the demo is here](https://youtu.be/7PCxjD9BqxE) <br>
+
+<a href="(https://youtu.be/7PCxjD9BqxE">
+	<img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Demo-red?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+[![Screenshot (457)](https://github.com/photkosee/airbrb-react/assets/114990364/3057c95d-b22f-4487-a8c6-311a8d28a4cb)](https://youtu.be/7PCxjD9BqxE)
+
+- [1. Background & Motivation](#11-background--motivation)
+- [2. The Task (Frontend)](#2-the-task)
+- [3. The Support (Backend)](#32-the-backend-provided)
+- [4. Constraints & Assumptions](#4-constraints--assumptions)
+- [5. Teamwork](#5-teamwork)
+- [6. Marking Criteria](#6-marking-criteria)
 
 ## 0. Change Log
 
