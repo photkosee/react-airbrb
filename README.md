@@ -7,7 +7,7 @@ I worked with a teammate and achieved all listed features.
 
 [A youtube video for the demo is here](https://youtu.be/7PCxjD9BqxE) <br>
 
-<a href="(https://youtu.be/7PCxjD9BqxE">
+<a href="https://youtu.be/7PCxjD9BqxE">
 	<img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Demo-red?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
